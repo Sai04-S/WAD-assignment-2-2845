@@ -1,0 +1,51 @@
+/* Element Selector */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f4f4f4;
+}
+
+/* Class Selector */
+.event-section {
+    background-color: lightblue;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+/* Background Image Section */
+.activities {
+    background-image: url('https://images.unsplash.com/photo-1523580846011-d3a5bc25702b');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+/* ID Selector */
+#special {
+    text-decoration: underline;
+}
+
+/* Paragraph Styling */
+p {
+    font-size: 18px;
+    text-align: justify;
+    line-height: 1.6;
+}
+
+/* List Styling */
+ul {
+    list-style-type: square;
+    color: darkmagenta;
+    font-size: 18px;
+}
+
+/* Venue Section */
+.venue {
+    background-color: lightgreen;
+    padding: 20px;
+    border-radius: 10px;
+}
